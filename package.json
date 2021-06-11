@@ -1,0 +1,17 @@
+{
+  "type": "module",
+  "name": "websocket_echo_server",
+  "version": "0.1.0",
+  "description": "echo server",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "http-server": "^0.12.3",
+    "websocket": "^1.0.32"
+  }
+}
